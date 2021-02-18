@@ -1,1 +1,1 @@
-Document Digitization
+FANTOM MW media-signing-service
