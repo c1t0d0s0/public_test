@@ -1,1 +1,1 @@
-FANTOM MW media-signing-service
+FANTOM
